@@ -2,4 +2,4 @@
 
 Types of Recommnders 
 
-1> Top N ReCOMMENDER SYSTEMS 
+1> Top N RECOMMENDER SYSTEMS 
